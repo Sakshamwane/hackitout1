@@ -4,48 +4,152 @@
     android:layout_height="wrap_content"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".MainActivity">
-
-
-    <TextView
-        android:id="@+id/java_text_view"
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="44dp"
-        android:background="#FFFFFF"
-        android:gravity="center_vertical"
-        android:text="JAVA FOR BEGINNERS"
-        android:textColor="#0000CD"
-        android:textStyle="bold"
-        android:padding="10dp"/>
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="274dp"
-        android:scaleType="centerCrop"
-        android:src="@drawable/yimage" />
 
-    <TextView
-        android:id="@+id/python_text_view"
-        android:layout_width="match_parent"
-        android:layout_height="44dp"
-        android:background="#FFFFFF"
-        android:gravity="center_vertical"
-        android:text="PYTHON FOR BEGINNERS"
-        android:textColor="#0000CD"
-        android:textStyle="bold"
-        android:padding="10dp"/>
+        <TextView
+            android:id="@+id/java_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="JAVA FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="274dp"
-        android:scaleType="centerCrop"
-        android:src="@drawable/jimage" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ja" />
 
-</LinearLayout>
+        <TextView
+            android:id="@+id/python_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="PYTHON FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/py" />
+
+        <TextView
+            android:id="@+id/c_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="C++ FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/cemage" />
+
+        <TextView
+            android:id="@+id/ds_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="DATA STRUCTURE FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/dsemage" />
+
+        <TextView
+            android:id="@+id/wd_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="WEB DEVELOPMENT FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/webem" />
+
+
+        <TextView
+            android:id="@+id/ml_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="MACHINE LEARNING FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/machemage" />
+
+        <TextView
+            android:id="@+id/ai_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="ARTIFICIAL INTELLIGENCE FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/aiem" />
+
+        <TextView
+            android:id="@+id/dsc_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:text="DATA SCIENCE FOR BEGINNERS"
+            android:textColor="#0000CD"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="274dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/dsem" />
+
+
+    </LinearLayout>
 </ScrollView>
