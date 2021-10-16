@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Hackitout">
-        <activity android:name=".pythonCourse"></activity>
+        <activity android:name=".cppCourse"></activity>
+        <activity android:name=".webCourse" />
+        <activity android:name=".pythonCourse" />
         <activity android:name=".javaCourse" />
         <activity android:name=".MainActivity">
             <intent-filter>

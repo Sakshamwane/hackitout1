@@ -17,7 +17,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="QXeEoD0pB3E"
+            app:videoId="l1EssrLxt7E"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"
@@ -27,7 +27,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="hEgO047GxaQ"
+            app:videoId="Rek0NWPCNOc"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -36,7 +36,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="mbryl4MZJms"
+            app:videoId="2QR11oDukn4"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -45,7 +45,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="DWgzHbglNIo"
+            app:videoId="jRAZlTEZi9I"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -54,7 +54,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="TqPzwenhMj0"
+            app:videoId="61ppyY5rUB0"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -63,7 +63,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="Eaz5e6M8tL4"
+            app:videoId="sqJ6xZ9mUwE"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -72,7 +72,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="Mf7eFtbVxFM"
+            app:videoId="4nC4VXHlys8"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -81,7 +81,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="2IsF7DEtVjg"
+            app:videoId="C01LeeMhwHc"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -90,7 +90,7 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="4V14G5_CNGg"
+            app:videoId="wKPlQkOdpFQ"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
@@ -99,10 +99,12 @@
         <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:videoId="1U8TI16AR4s"
+            app:videoId="6Cpd63_WXdI"
             android:padding="5dp"
             app:autoPlay="false"
             app:showYouTubeButton="false"/>
+
+
 
 
     </LinearLayout>

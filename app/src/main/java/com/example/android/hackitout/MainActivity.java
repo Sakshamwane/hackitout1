@@ -25,5 +25,11 @@ public class MainActivity extends AppCompatActivity {
             Intent pythonIntent = new Intent(this, pythonCourse.class);
             startActivity(pythonIntent);
         });
+
+        TextView aiCourse = findViewById(R.id.ai_text_view);
+        aiCourse.setOnClickListener(view -> {
+            Intent aiIntent = new Intent(this, aiCourse.class);
+            startActivity(aiIntent);
+        });
     }
 }
